@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Student type="郭由添" loc="xi'an" sex="male">
+
+    <gender></gender>
+    <name type="web">
+        haha（内容）
+    </name>
+    <age approach="by himself">
+        18
+        <!---这里是注释-->
+    </age>
+</Student>
